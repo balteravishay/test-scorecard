@@ -1,3 +1,3 @@
-FROM blalba
+FROM blalba:8.4.0
 
-RUN nuget add Newtonsoft.Json
+RUN nuget install Newtonsoft.Json
