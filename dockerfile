@@ -1,2 +1,2 @@
-FROM blalba:8.4.0
+FROM blalba:8.4.0@sha256:3235326357dfb65f1781dbc4df3b834546d8bf914e82cce58e6e6b676e23ce8f
 
