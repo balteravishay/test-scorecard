@@ -1,4 +1,3 @@
-FROM hello
 
 RUN dotnet add package some-package
 RUN nuget install some-package
